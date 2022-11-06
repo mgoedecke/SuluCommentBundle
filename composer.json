@@ -1,5 +1,5 @@
 {
-    "name": "sulu/comment-bundle",
+    "name": "mgoedecke/comment-bundle",
     "description": "Sulu Bundle for adding comments on entities",
     "type": "sulu-bundle",
     "license": "MIT",
